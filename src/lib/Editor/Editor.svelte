@@ -8,7 +8,7 @@
 
     export let value = "";
     export let typescript = false;
-    export let height = "400px";
+    export let height = "fit-content";
     export let width = "50rem";
     
 
