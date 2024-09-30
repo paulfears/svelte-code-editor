@@ -1,5 +1,5 @@
 {
-	"name": "codemirror-svelte",
+	"name": "svelte-js-editor",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
